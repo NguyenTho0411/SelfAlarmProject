@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731823990745",
+    "project_id": "self-alarm-32dc2",
+    "storage_bucket": "self-alarm-32dc2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731823990745:android:742b6d01f26e88facf5bc8",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.nguyenhuuductho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmUvZR8ADOnEiLYOLgaMBZHL5IsrOod1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
